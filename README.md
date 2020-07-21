@@ -1,4 +1,4 @@
-@ # This project kiniscoe site by reactjs
+@ # This project kiniscore site by reactjs
 
 ##Skill reactjs, firebase, auth, api
 ## Available Scripts
