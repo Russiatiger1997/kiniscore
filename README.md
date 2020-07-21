@@ -1,5 +1,5 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
+This project kiniscoe site by reactjs
+###Skill reactjs, firebase, auth, api
 ## Available Scripts
 
 In the project directory, you can run:
